@@ -1,0 +1,2 @@
+class desk():
+    pass
